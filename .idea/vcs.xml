@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/fronted-folder/knowledge-tracker-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/knowledge-tracker-frontend" vcs="Git" />
   </component>
 </project>
