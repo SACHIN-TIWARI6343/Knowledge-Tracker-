@@ -59,4 +59,5 @@ public class Note {
     public LocalDateTime getCreatedAt() {
         return createdAt;
     }
+
 }

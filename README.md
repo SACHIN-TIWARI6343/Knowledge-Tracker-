@@ -6,7 +6,7 @@ KNOWLEDGE  TRACKER
 * Overview
 
 This project is a Knowledge Tracker App . It allows users to create, edit, delete, and filter notes related to learning resources. The app is a full-stack solution with a Next.js frontend and a Spring Boot backend integrated with an H2 database.
-
+ 
 
 * Tech Stack
 
